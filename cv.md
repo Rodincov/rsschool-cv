@@ -34,7 +34,39 @@ As a young IT enthusiast, I aim to excel in my skills and become a leading exper
 + CSS/SASS
 
 
-
++ JavaScript(Basic)
 
 
 + Git
+
+## **Code Exapmle** 
+
+```
+function displayLikes(names) {
+  const numLikes = names.length;
+  if (numLikes === 0) {
+    return "no one likes this";
+  } else if (numLikes === 1) {
+    return `${names[0]} likes this`;
+  } else if (numLikes === 2) {
+    return `${names[0]} and ${names[1]} like this`;
+  } else if (numLikes === 3) {
+    return `${names[0]}, ${names[1]} and ${names[2]} like this`;
+  } else {
+    const numOthers = numLikes - 2;
+    return `${names[0]}, ${names[1]} and ${numOthers} others like this`;
+  }
+}
+```
+## **Experience** 
+
+
+## **Education**
+
+
++ Karaganda Higher Polytechnic College
+
+
+## **English** 
+
+**B2** (I can write, speak and think in English language )
