@@ -1,1 +1,1 @@
-# rsscool-cv
+https://rodincov.github.io/rsschool-cv/cv
