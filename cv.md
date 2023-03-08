@@ -34,7 +34,7 @@ As a young IT enthusiast, I aim to excel in my skills and become a leading exper
 + CSS/SASS
 
 
-+ JavaScript(Basic)
+
 
 
 + Git
