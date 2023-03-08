@@ -1,3 +1,4 @@
+
 .code_example {
     width: 100%;
     background-color: rgb(211, 207, 207);
@@ -6,5 +7,6 @@ img {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    margin: auto;
+    display: block;
+    margin-left: 150px;
 }
